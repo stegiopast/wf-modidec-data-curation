@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
     "$id": "https://raw.githubusercontent.com/./master/nextflow_schema.json",    
-    "title": "wf-modidec_data-curation",
+    "title": "Modidec Data Curation",
     "description": "Nextflow workflow for running Modidec.",
     "url": "https://github.com/nanopore-hackathon/wf-modidec",
     "type": "object",
