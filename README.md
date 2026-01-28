@@ -75,6 +75,16 @@ When using Curation Type Analysis:
 2. bam files including move table and MD flags
 
 
+## Acknowledgements
+
+This project has been initiated in a [hackathon event](https://epi2me.nanoporetech.com/mainz-hackathon/) in 2024. We want to thank the Institute for [Quantitative and Computational Biosciences (IQCB)](https://iqcb.uni-mainz.de), the [RNA modification and processing consortium](https://www.trr319-rmap.de/) and [Holzer Scientific Consulting](https://www.holzerscientific.com/) for funding and/or organizing this event. Moreover, we want to thank [Oxford Nanopore Technologies](https://nanoporetech.com/) for teaching workflow integration into Epi2ME in an on-site event. Finally, the long-read community kickstarted the development of the here presented workflow and we are very thankful for your participation and engagement.
+
+## Publications and Citation
+Whenever you use this tool please cite the following article:
+
+Nicolò Alagna, Stefan Mündnich, Johannes Miedema, Stefan Pastore, Lioba Lehmann, Anna Wierczeiko, Johannes Friedrich, Lukas Walz, Marko Jörg, Tamer Butto, Kristina Friedland, Mark Helm, Susanne Gerber, ModiDeC: a multi-RNA modification classifier for direct nanopore sequencing, Nucleic Acids Research, Volume 53, Issue 14, 12 August 2025, gkaf673, https://doi.org/10.1093/nar/gkaf673
+
+
 
 
 
